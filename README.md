@@ -39,3 +39,5 @@ sudo nano neo4j.conf
   - Bolt connector "#dbms.connector.bolt.listen_address=:7687" -> dbms.connector.bolt.listen_address=0.0.0.0:7687
   - HTTP Connector "#dbms.connector.http.listen_address=:7474" -> dbms.connector.http.listen_address=0.0.0.0:7474
   - HTTPS Connector "#dbms.connector.http.listen_address=:7473" -> dbms.connector.https.listen_address=0.0.0.0:7473
+- Config NeoSemantics
+ add dbms.unmanaged_extension_classes=n10s.endpoint=/rdf
