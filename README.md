@@ -31,7 +31,7 @@ sudo curl -L -O https://github.com/neo4j/apoc/releases/download/5.0.0/apoc-5.0.0
 ## Install NeoSemantic
 At neo4j@WHOTest:/var/data/neo4j_install/neo4j-enterprise-5.0.0-drop06.0/plugins: 
 ```
-sudo curl -L -O https://github.com/neo4j-labs/neosemantics/releases/releases/download/4.4.0.2/neosemantics-4.4.0.2.jar
+sudo curl -L -O https://github.com/neo4j-labs/neosemantics/releases/download/4.4.0.2/neosemantics-4.4.0.2.jar
 ```
 ## Install GDS
 ```
