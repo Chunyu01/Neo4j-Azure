@@ -33,6 +33,10 @@ At neo4j@WHOTest:/var/data/neo4j_install/neo4j-enterprise-5.0.0-drop06.0/plugins
 ```
 sudo curl -L -O https://github.com/neo4j-labs/neosemantics/releases/releases/download/4.4.0.2/neosemantics-4.4.0.2.jar
 ```
+## Install GDS
+```
+sudo curl -L -O https://github.com/neo4j/graph-data-science/releases/download/2.2.2/neo4j-graph-data-science-2.2.2.jar
+```
 # Config Neo4j
 ```
 sudo nano neo4j.conf
