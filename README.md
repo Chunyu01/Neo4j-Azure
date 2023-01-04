@@ -1,5 +1,7 @@
 # Neo4j-Azure
 ## Create Virtual Machine on Azure
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/4737766/210543679-88558f8f-8a14-4e31-bf51-7da4117056be.png">
+
 ## Login VM
 User the user of VM which is created by above step
 ```
